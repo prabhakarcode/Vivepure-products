@@ -1,0 +1,6 @@
+{
+  "name": "VIVEPANYA E-Mart - Natural Health & Personal Care",
+  "description": "Complete modern e-commerce storefront and admin dashboard for VIVEPANYA natural handcrafted soaps, virgin coconut oil, and personal care products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
